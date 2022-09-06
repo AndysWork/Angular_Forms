@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/angular_forms_app/.vs/angular_forms_app/FileContentIndex
+/angular_forms_app/.vs
+/angular_forms_app/.vscode
